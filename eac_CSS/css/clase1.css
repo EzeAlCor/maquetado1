@@ -1,0 +1,34 @@
+@font-face{
+	font-family: Rockout;
+	src:url(../fuentes/Rockout.otf);
+}
+@font-face{
+	font-family: YeonSung-Regular;
+	src:url(../fuentes/YeonSung-Regular.otf);
+}
+
+
+body{
+	background-color: #3b0059;
+	width: 1200px;
+	height: auto;
+	margin: auto;
+}
+h1{
+	font-family: Rockout;
+	font-size: 40px;
+}
+p{
+	font-family: Rockout;
+	font-size: 25px;
+	line-height: 32px;
+}
+h2{
+	font-family: YeonSung-Regular;
+	font-size: 40px;
+}
+#google{
+	font-family: YeonSung-Regular;
+	font-size: 25px;
+	line-height: 32px;
+}
